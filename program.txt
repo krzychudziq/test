@@ -1,1 +1,2 @@
-To jest wersja 1.1beta
+To jest wersja 1.1
+LALALA
